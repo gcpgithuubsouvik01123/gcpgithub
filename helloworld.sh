@@ -1,1 +1,1 @@
-echo "Hello, world! from GCP Container"
+echo "Hello, world! from GCP Container- For Demo"
